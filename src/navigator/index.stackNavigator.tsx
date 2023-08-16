@@ -3,7 +3,7 @@ import {
   createNativeStackNavigator,
 } from '@react-navigation/native-stack';
 import React from 'react';
-import {StocksHoldingsScreen} from '../screens/index.screens';
+const StocksHoldingsScreen = () => null;
 
 const Stack = createNativeStackNavigator();
 
